@@ -1,0 +1,7 @@
+1. Opened the terminal and navigated to my project folder.
+2. Ran the following command to install SASS globally:
+   npm install -g sass
+3. Verified the installation using:
+   sass --version
+4. Created an SCSS file and compiled it to CSS using:
+   sass input.scss output.css
